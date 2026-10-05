@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR Staff</string>
+    <string name="server_setup_title">Connect to QR Staff</string>
+    <string name="server_setup_example">http://192.168.1.10/qrstaff_subscription_manager</string>
+</resources>
